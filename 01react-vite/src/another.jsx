@@ -2,11 +2,8 @@ const Fz = ()=>{
     return(
     
     
-    <h1>anjali pagal is pagal from agra pagal khana who always watch r</h1>
-    );
-    
-        
-    
+    <h1>checking how to export and import the file to main.jsx</h1>
+    )
 }
 
 export default Fz
